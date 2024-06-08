@@ -5,3 +5,5 @@ matplotlib
 scikit-Learn
 plotly
 imblearn
+pickle
+optuna
